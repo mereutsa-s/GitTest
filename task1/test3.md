@@ -17,3 +17,4 @@ $ git commit -a -m 'Fix broken email address'
 %         System.out.println(" Сумма " + sum/arr.length);
 %     }
 % }
+Welcom to school it
